@@ -8,7 +8,7 @@ Hi, this is a connect four game prototype made by Yusuf Bektas in part of a job 
 
 - Hotseat multiplayer
 - Full 3D board and discs
-- Simple command patttern design
+- Simple command patttern and singleton design
 - Win streak is saved into PlayerPrefs
 - Disc pooler for performance optimization
 
